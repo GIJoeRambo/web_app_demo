@@ -1,0 +1,16 @@
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\bin\Debug\netcoreapp2.1\web_app_demo.deps.json
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\bin\Debug\netcoreapp2.1\web_app_demo.runtimeconfig.json
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\bin\Debug\netcoreapp2.1\web_app_demo.runtimeconfig.dev.json
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\bin\Debug\netcoreapp2.1\web_app_demo.dll
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\obj\Debug\netcoreapp2.1\web_app_demo.csprojAssemblyReference.cache
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\obj\Debug\netcoreapp2.1\web_app_demo.RazorAssemblyInfo.cache
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\obj\Debug\netcoreapp2.1\web_app_demo.RazorAssemblyInfo.cs
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\obj\Debug\netcoreapp2.1\web_app_demo.AssemblyInfoInputs.cache
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\obj\Debug\netcoreapp2.1\web_app_demo.AssemblyInfo.cs
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\obj\Debug\netcoreapp2.1\web_app_demo.RazorTargetAssemblyInfo.cache
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\bin\Debug\netcoreapp2.1\web_app_demo.pdb
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\obj\Debug\netcoreapp2.1\web_app_demo.dll
+C:\Users\Ri\source\repos\web_app_demo\web_app_demo\obj\Debug\netcoreapp2.1\web_app_demo.pdb
